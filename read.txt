@@ -1,5 +1,5 @@
  WAP to input a number and calculate its reverseusing function.
- WAP to find sum of n integers
+ WAP to find sum of n integers using function.
  WAP to input a numper and check odd or even using function.
  WAP to calculate the factorial of unput number using recurssion.
  WAP to generate fibonacci series using recurssion.
