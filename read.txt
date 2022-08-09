@@ -1,0 +1,9 @@
+ WAP to input a number and calculate its reverseusing function.
+ WAP to find sum of n integers
+ WAP to input a numper and check odd or even using function.
+ WAP to calculate the factorial of unput number using recurssion.
+ WAP to generate fibonacci series using recurssion.
+ WAP to display n natural numbers using recurssion
+ WAP to display the sum of input digits using recurssion.
+ WAP to check the input number is prime or not using function.
+ WAP to check the input number is positive or negative using function.
